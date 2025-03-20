@@ -1,0 +1,2 @@
+# RickAndMortyApp
+Prueba técnica.
