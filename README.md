@@ -39,7 +39,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno local:
    ```bash
    git clone https://github.com/AgustinaB-Globant/RickAndMortyApp.git
 
-**Uso**
+## Uso
 
 Una vez que la aplicación esté instalada y ejecutándose, puedes utilizarla de la siguiente manera:
 
